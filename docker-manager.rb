@@ -3,7 +3,7 @@ class DockerManager < Formula
   homepage ""
   url "https://github.com/javierfdezg/docker-manager/archive/0.0.5.tar.gz"
   version "0.0.5"
-  sha256 "12e39bb15b77d8078d439c8cffbf9e39ad37198b"
+  sha256 "417b6276e61db70e2bc00417432c222d59cbced82c7fd37ef80a19eb389930ce"
 
   depends_on 'jq'
 
