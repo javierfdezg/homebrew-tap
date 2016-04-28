@@ -6,6 +6,7 @@ class DockerManager < Formula
   sha256 "417b6276e61db70e2bc00417432c222d59cbced82c7fd37ef80a19eb389930ce"
 
   depends_on 'jq'
+  depends_on 'moreutils'
 
   def install
 
