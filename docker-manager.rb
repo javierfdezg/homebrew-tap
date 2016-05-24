@@ -1,9 +1,9 @@
 class DockerManager < Formula
   desc ""
   homepage ""
-  url "https://github.com/javierfdezg/docker-manager/archive/0.0.6.tar.gz"
-  version "0.0.6"
-  sha256 "33d87499878881fcc98405028952e6c6af6bcf3d13f59a444787a7511215ef7a"
+  url "https://github.com/javierfdezg/docker-manager/archive/0.0.7.tar.gz"
+  version "0.0.7"
+  sha256 "88381b3f4b6b969d4df2d1603afec07a7b1acbd783e731dfb281dd51a17d4ae5"
 
   depends_on 'jq'
   depends_on 'moreutils'
